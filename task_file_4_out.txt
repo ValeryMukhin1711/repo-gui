@@ -1,0 +1,4 @@
+Odin — 1
+Dva — 2
+Tree — 3
+Chetyre — 4
